@@ -1,0 +1,3 @@
+AppName: my-app
+ReplicaCount: 3
+Image: myregistry/my-app:v1.0.0
